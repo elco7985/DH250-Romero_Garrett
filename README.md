@@ -33,4 +33,4 @@
 | Help and documentation   | Text        | And more      |
 
 ----
-### Comparison & Analysis:
+## Comparison & Analysis:
