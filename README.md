@@ -6,5 +6,16 @@ Website Name: |
 Website URL:
 | Heuristic Principle      | Severity Ranking | Comments     |
 | :---        |    :----:   | :----         |
-| Header      | Title       | Here's this but I also wantlk kajbfadjfbk ajfkadjfn edofhjaksdjnfskaldjfnbkjdfbwqiejfblkdsjfb ksadjfwd;jfkdjfnlaksdjbfn dklfjbasdkjfbskjasdbfkljdb  |
+| Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
+----
+Website Name: |
+Website URL:
+| Heuristic Principle      | Severity Ranking | Comments     |
+| :---        |    :----:   | :----         |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+----
+### Comparison & Analysis:
