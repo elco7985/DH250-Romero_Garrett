@@ -5,7 +5,7 @@
 ## Heuristic Evaluation
 ### Website Name: Mathantics
 ### Website URL: https://mathantics.com/
-### Website Screenshot: <img src="./mathantics-screenshot.png">
+### Website Screenshot: <img src="./mathantics-screenshot.png" width="50%">
 
 
 | Heuristic Principle      | Severity Ranking | Comments     |
