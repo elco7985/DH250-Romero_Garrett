@@ -18,7 +18,7 @@ Website URL:
 | Help users recognize, diagnose, and recover from errors      | Title       | Here's this   |
 | Help and documentation   | Text        | And more      |
 
-----
+
 Website Name: |
 Website URL:
 | Heuristic Principle      | Severity Ranking | Comments     |
