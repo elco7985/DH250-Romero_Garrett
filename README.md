@@ -4,7 +4,7 @@
 ----
 ## Heuristic Evaluation
 ### Website Name: Mathantics
-### Website URL:https://mathantics.com/
+### Website URL: https://mathantics.com/
 ### Website Screenshot: <img src="./mathantics-screenshot.png">
 
 
@@ -22,9 +22,9 @@
 | Help and documentation   | Text        | And more      |
 
 
-### Website Name: 
-### Website URL:
-### Website Screenshot:
+### Website Name: Math is fun
+### Website URL: https://www.mathsisfun.com/
+### Website Screenshot: <img src="./mathisfun-screenshot.png">
 
 
 | Heuristic Principle      | Severity Ranking | Comments     |
