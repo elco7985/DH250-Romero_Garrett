@@ -11,7 +11,7 @@ lkeflekwnfewkn
 ### Mathantics Heuristic Evaluation
 | Heuristic Principle      | Severity Ranking | Comments     |
 | :---        |    :----:   | :----         |
-| Visibility of system status      | Title       | [^1]:   |
+| Visibility of system status      | Title       | [^1]: kjsdb  |
 | Match between system and the real world   | Text        | And more      |
 | User control and freedom      | Title       | Here's this   |
 | Consistency and standards   | Text        | And more      |
