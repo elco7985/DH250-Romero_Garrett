@@ -7,11 +7,11 @@
 ### Website URL: https://mathantics.com/
 ### Website Screenshot: <img src="./mathantics-screenshot.png">
 ### Overall Evaluation:
-lkeflekwnfewkn
+Recommend updating button icons to clearly define status.
 ### Mathantics Heuristic Evaluation
 | Heuristic Principle      | Severity Ranking | Comments     |
 | :---        |    :----:   | :----         |
-| Visibility of system status      | Title       | [^1]: kjsdb  |
+| Visibility of system status      | 1       | The status of system is adequately conveyed on the website. When hovering over buttons with embedded hyperlinks on the website, they either change color or the cursor changes from pointer to a hand with index finger sticking out. Moreover, when engaging with the video content, it provides play/stop options and a status bar to signify whether or not the video is playing and where it is specifically on the timeline. While the system conveys status to the user, it can be hard to differentiate due to some buttons on the website not being clearly designed as buttons. A user needs to drag their cursor over some buttons in order to get a proper status conveyed. |
 | Match between system and the real world   | Text        | And more      |
 | User control and freedom      | Title       | Here's this   |
 | Consistency and standards   | Text        | And more      |
