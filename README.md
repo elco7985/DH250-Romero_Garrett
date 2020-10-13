@@ -27,11 +27,11 @@ Recommend updating button icons to clearly define status.
 ### Website URL: https://www.mathsisfun.com/
 ### Website Screenshot: <img src="./mathisfun-screenshot.png">
 ### Overall Evaluation:
-lkeflekwnfewkn
+Change graphic icons to change a different color (maybe shaded backgrounded). 
 ### Mathantics Heuristic Evaluation
 | Heuristic Principle      | Severity Ranking | Comments     |
 | :---        |    :----:   | :----         |
-| Visibility of system status      | Title       | Here's this   |
+| Visibility of system status      | Title       | System status is very well conveyed on this site. Buttons are clearly defined and change different colors when hovering over them. When engaging with the search bar, it will immediately use predictive searching and begin populating the page with results as you go along. In my opinion, this conveying to the user in real time of the search function performing the user query. Moreover, when a user is performing math equation problems on the website, it will automatically signal whether the user got it right or wrong. Where status is not clearly conveyed is through the graphic icons on the worksheet page not changing color. The cursor only changes to a hand with index finger to signify system status.  |
 | Match between system and the real world   | Text        | And more      |
 | User control and freedom      | Title       | Here's this   |
 | Consistency and standards   | Text        | And more      |
