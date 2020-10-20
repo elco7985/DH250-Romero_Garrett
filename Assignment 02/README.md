@@ -1,7 +1,6 @@
 # DH 250 Assignment 2 - Garrett Romero
-----
 ## Math is fun Moderated Usability Test 
-----
+
 ### Introduction
 ---- 
 In today's COVID-19 reality, remote learning has become required and additional educational resources are becoming even more important to facilitate effective this new reality. The Math is fun website is an educational resource for mathematics supplemental learning. It provides math examples, simple how-to videos, math worksheets and quizzes and more. My initial impressions are that I found the website fairly straight forward and did not overwhelm me with information based on the landing page. However, after conducting the heuristic evaluation, based on Jakob Nielsen's 10 principles, I found a few violations that potentially impacted usability of the website. Specifically:
