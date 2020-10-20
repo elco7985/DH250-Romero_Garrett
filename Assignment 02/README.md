@@ -16,7 +16,7 @@ The purpose of the usability test for the Mathisfun website is to confirm whethe
 
 ----
 ### Methodology
-To perform the Mathisfun usability test, recuitment will be focused on identifying a woman who fits the demographics identified from the [heuristic evaluation](https://github.com/elco7985/DH250-Romero_Garrett/blob/main/README.md). To perform most of the tasks of the usability test, A google form was created to present the script of the usability test, inform the participant of the nature of the research, guarantee participant safety, to perform the usability test and capture the data. The usability test will be conducted on the Zoom video confernce software. This is meant to protect particpant(s) due to social distancing recommendations in light of the COVID-19 pandemic. 
+To perform the Mathisfun usability test, recuitment will be focused on identifying a woman who fits the demographics identified from the [heuristic evaluation](https://github.com/elco7985/DH250-Romero_Garrett/blob/main/README.md). Most of the tasks of the usability test will be through a custom made Google form to present the script of the usability test, inform the participant of the nature of the research, guarantee participant safety, to perform the usability test and capture the data. The usability test will be conducted on the Zoom video confernce software. This is meant to protect particpant(s) due to social distancing recommendations in light of the COVID-19 pandemic. 
 
 Upon meeting with the research participant on Zoom, the moderator will inform the participant of 
 
