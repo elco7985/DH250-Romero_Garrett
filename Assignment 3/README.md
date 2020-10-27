@@ -1,6 +1,5 @@
 # UT Analysis
 ## Introduction
-----
 
 This is the data analysis of the Library website usability testing! Please enjoy.
 
