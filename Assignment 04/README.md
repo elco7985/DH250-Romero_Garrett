@@ -20,15 +20,16 @@ The semi-structured contextual inquiry will be based on a flexible style of inte
 ## Context & Observation/Interview Guide
 The researcher will begin the study process by introducing himself to the participant and explain the purpose of the research study. After explaining and answering questions related to the study, the researcher will go over the format of the contextual inquiry and what to expect along the way of the study. More importantly, the researcher will request permission to: 
 
-*Conduct the study with the participant
-*Record the observation and interview
-*Take field notes during both phases
-*Disseminate the research data for purely academic purposes
+* Conduct the study with the participant
+* Record the observation and interview
+* Take field notes during both phases
+* Disseminate the research data for purely academic purposes
 
 If the research does receive consent to perform everything listed above, then the researcher will move on to the next phase of informing the participant. Specifically, the researcher will notify the participant:
-*They can choose to take a break and pause the study at any point in time, 
-*They can stop the study at any time with no explanation needed*They can request the retraction or modification of any response given during and after the interview
-*They may request the permanent deletion of data that was taken during the study
+
+* They can choose to take a break and pause the study at any point in time, 
+* They can stop the study at any time with no explanation needed*They can request the retraction or modification of any response given during and after the interview
+* They may request the permanent deletion of data that was taken during the study
 
 As mentioned previously, questions will be identified and crafted from the participant observation to facilitate the semi-structured contextual inquiry interview process. 
 
