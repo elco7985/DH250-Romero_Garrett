@@ -34,6 +34,10 @@ If the research does receive consent to perform everything listed above, then th
 As mentioned previously, questions will be identified and crafted from the participant observation to facilitate the semi-structured contextual inquiry interview process. To generate the questions for the contextual inquiry, certain themes and concepts related to the Mathisfun.com heuristic evaluation and pilot usability test findings will be extracted before the study and written down on the fieldnotes. This will ultimately help the researcher reference back to the findings through the participant observation process to help generate key questions that would be relevant to the contextual inquiry interview. 
 
 ## Reflections
+It was interesting conducting a loosely structured interview. The participant observation allowed me to collect data and key insights instantaneously that I was unable to capture through past research methodologies. I felt like this is the true essence of implementing qualitative research and allowed me to think more creatively about the questions I wanted to ask and didn't restrict me to a certain thought process. I still think a structured script is just as important since it does allow you to target certain aspects of the study you do not want to forget.
+
+Also, don't turn off the camera until you are at your car.
+
 
 
 ----
