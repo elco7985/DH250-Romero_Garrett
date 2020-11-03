@@ -24,10 +24,10 @@ The characteristics of the primary user is a middle-aged (between 40-60 years of
 ----
 ## Additional Important Resources
 
-To access the entire Google Drive folder related to Assignment #4, please click [here!](https://drive.google.com/drive/folders/1GWWyc0lflhutxklKxgF8shzU4FWQIV4A?usp=sharing)
+_**To access the entire Google Drive folder related to Assignment #4, please click [here!](https://drive.google.com/drive/folders/1GWWyc0lflhutxklKxgF8shzU4FWQIV4A?usp=sharing)**_
 
-To access participation observation and contextual inquiry  field notes, please click [here!](https://drive.google.com/drive/folders/1TMJJ2525-lpz8aWnxhGwQ_glnKdeZoTC?usp=sharing)
+_To access participation observation and contextual inquiry  field notes, please click [here!](https://drive.google.com/drive/folders/1TMJJ2525-lpz8aWnxhGwQ_glnKdeZoTC?usp=sharing)_
 
-To access participant observation video and transcript, please click [here!](https://drive.google.com/drive/folders/1-PxKmLAlZ-bPHPaPAYbaJfU8zmcZ3YrE?usp=sharing)
+_To access participant observation video and transcript, please click [here!](https://drive.google.com/drive/folders/1-PxKmLAlZ-bPHPaPAYbaJfU8zmcZ3YrE?usp=sharing)_
 
-To access contextual inquiry recorded videos and transcripts, please click [here!](https://drive.google.com/drive/folders/1t_IufzxSTXl54lOjGZbPMhWzwn0PomiJ?usp=sharing)
+_To access contextual inquiry recorded videos and transcripts, please click [here!](https://drive.google.com/drive/folders/1t_IufzxSTXl54lOjGZbPMhWzwn0PomiJ?usp=sharing)_
