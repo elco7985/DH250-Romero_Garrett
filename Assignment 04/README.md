@@ -10,6 +10,7 @@ The characteristics of the primary user is a middle-aged (between 40-60 years of
 
 ## Research Methods
 ### Participant Observation
+Participant observation will be utilized within this study and will take place in the home environment of a teacher facilitating math instruction remotely, who meets the demographics of the targeted user group. The participant observation serves two primary purposes: First, it is to engage with the targeted user group in a way that puts the researcher in the “users’ shoes”; Lastly, it will help generate questions to help moderate the contextual inquiry. This specific method will allow the researcher to see the user in a live teaching environment and gain a deeper understanding of tasks involved in teaching math, the current technology being utilized to facilitate learning, reveal the pain points experienced while facilitating learning, and any other relevant data that might beneficial to the overall study. More importantly, the initial data collected from the participant observation will be used to help craft strategic interview questions for the semi-structured contextual inquiry. 
 
 ### Semi-Structured Contextual Inquiry
 
