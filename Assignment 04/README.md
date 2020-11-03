@@ -31,8 +31,7 @@ If the research does receive consent to perform everything listed above, then th
 * They can stop the study at any time with no explanation needed*They can request the retraction or modification of any response given during and after the interview
 * They may request the permanent deletion of data that was taken during the study
 
-As mentioned previously, questions will be identified and crafted from the participant observation to facilitate the semi-structured contextual inquiry interview process. 
-
+As mentioned previously, questions will be identified and crafted from the participant observation to facilitate the semi-structured contextual inquiry interview process. To generate the questions for the contextual inquiry, certain themes and concepts related to the Mathisfun.com heuristic evaluation and pilot usability test findings will be extracted before the study and written down on the fieldnotes. This will ultimately help the researcher reference back to the findings through the participant observation process to help generate key questions that would be relevant to the contextual inquiry interview. 
 
 ## Reflections
 
