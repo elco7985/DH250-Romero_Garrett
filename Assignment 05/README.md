@@ -54,6 +54,7 @@ Josephine is working on a multiplication problem she’s having trouble with and
 **Customer Journey Map**
 
 <img src="./JosephineCJM.png">
+
 ----
 
 ## Reflections
