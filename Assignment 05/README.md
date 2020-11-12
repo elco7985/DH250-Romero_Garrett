@@ -3,7 +3,6 @@
 ## Personas
 ### Laura Q - The Math Guru
 <img src="./Teacher1.png">
-
 ### Josephine R.  - The Bored Math Student
 <img src="./Student1.png">
 
@@ -34,6 +33,10 @@ Laura is a grade school teacher that currently facilitates her classes online. B
 
 Laura goes to the Mathisfun.com website and selects the Games button section. She identifies Team Games and selects the Baseball option. Inside the game, she customizes it based on her needs and parameters. She chooses two teams competing against each other and gives each team a name. Also, she selects the math category and sets the skill level based on the students grade. After she is done customizing the game, she selects the “Share the URL” feature that allows her to copy and paste the Game Activities URL and send it to her students via the group chat on Zoom.
 
+**Customer Journey Map**
+
+<img src="./LauraCJM2.png">
+
 ### Josephine R's Scenario
 
 **Why is Josephine using this product**
@@ -44,6 +47,9 @@ Josephine is trying to complete an online math worksheet assigned by her teacher
 
 Josephine is working on a multiplication problem she’s having trouble with and needs help. She looks for the Math Toolkit button located at the bottom-right of the webpage. She selects the button and a menu fans out giving her options to choose from, such as video tutorials, math shortcuts, digital objects to manipulate and more. Josephine decides to select the Math Shortcuts option to help her solve the multiplication problem.  
 
+**Customer Journey Map**
+
+<img src="./JosephineCJM.png">
 ----
 ## Reflections
 
