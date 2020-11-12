@@ -20,6 +20,10 @@ Laura is a grade school teacher based in Los Angeles. She has always used online
 
 Laura goes to the Mathisfun.com website and selects the Worksheets button located on the landing page. She identifies the Multiplication worksheets option and it opens up to the various worksheets based on a many categories for math. Laura selects the Getting Tougher multiplication worksheet and reviews the math problems. She notices that some of the math problems may be too difficult for her students to solve. Laura then selects the ‘Customize Math Problems” option and modifies the questions to be more suited for the students skill level. After she completes her modifications, Laura saves the worksheet and then clicks the “Share the URL” feature that allows her to copy and paste the math worksheet URL and send it to her students via email or chat.   
 
+**Customer Journey Map**
+
+<img src="./LauraCJM1.png">
+
 _**Scenario 2**_
 
 **Why is Laura using this product**
