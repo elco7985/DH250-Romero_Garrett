@@ -12,10 +12,10 @@
 <img src="./mathisfun.png">
 
 ### After
-<img src="./mathantics-screenshot.png">
+<img src="./Updated_mathisfun.com.png">
 
 ### Entire Mockup
-<img src="./mathantics-screenshot.png">
+<img src="./Hi-Fi_Mockup.png">
 
 ----
 ## Wireflow
