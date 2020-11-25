@@ -2,7 +2,15 @@
 ## Introduction
 
 ----
+## Graphic Design Decision Making Process
+
+----
 ## Prototype Tasks
+The prototype task is based off of scenario 1 from the Laura Q. user persona (for reference, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005)). Based off the scenario, the user is supposed to go through the workflow and process as so:
+* Select 'Worksheets' from the Landing page
+* Select the multiplaction worksheet, Getting Tougher'
+* Customize 'Getting Tougher' worksheet
+* Copy URL from the customized 'Getting Tougher' worksheet 
 
 ----
 ## Prototype Images
