@@ -15,10 +15,11 @@
 <img src="./Updated_mathisfun.com.png">
 
 ### Entire Mockup
-<img src="./Hi-Fi_Mockup.png">
+<img src="./Hi-Fi_Full Mockup.png">
 
 ----
 ## Wireflow
+<img src="./Hi-Fi_Wireflow.png">
 
 ----
 ## Impression Test & Cognitive Walkthrough
