@@ -30,6 +30,6 @@ To access recording of Impression Test & Cognitive Walkthrough, please click [he
 
 ----
 ## Accessibility Test
-
+<img src="./Accessibility.png">
 ----
 ## Reflections
