@@ -9,7 +9,7 @@
 
 ----
 ### Before
-<img src="./mathantics-screenshot.png">
+<img src="./mathisfun.png">
 
 ### After
 <img src="./mathantics-screenshot.png">
