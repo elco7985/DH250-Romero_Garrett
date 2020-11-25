@@ -9,10 +9,13 @@
 
 ----
 ### Before
+<img src="./mathantics-screenshot.png">
 
 ### After
+<img src="./mathantics-screenshot.png">
 
 ### Entire Mockup
+<img src="./mathantics-screenshot.png">
 
 ----
 ## Wireflow
