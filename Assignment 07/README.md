@@ -29,21 +29,23 @@ What do you see?:
 * I see on the welcome page, click to enter
 * Landing page - symbols make sense
 * Online confusing
-    ** May be clearer for people familiar with the website
-    ** Does she have to work online or offline?
-    ** Copy Button seems a little small
-        *** Doesn’t know what the smiley face is all about*
+* May be clearer for people familiar with the website
+* Does she have to work online or offline?
+* Copy Button seems a little small
+* Doesn’t know what the smiley face is all about*
 
 What do you think about the webpage?
 * Seems fine
 * Simple to use
 * Not too much going
-    ** Probably good for kids and teachers
+* Probably good for kids and teachers
 * Colors of the buttons
-    ** Red for Copy URL is questionable
+* Red for Copy URL is questionable
+
 What do you think you can do with this webpage?
 *  Math stuff
 * These are accurate
+
 Any Other Comments?
 *  Looks really good
 
@@ -51,8 +53,8 @@ Any Other Comments?
 
 Do you think users can understand what the screens feedback is all about?
 * Yes
-    ** Except for online worksheet.. Maybe
-        *** Question can “how do you want to work on this? Online or offline?”
+* Except for online worksheet.. Maybe
+* Question can possibly be framed “how do you want to work on this? Online or offline?”
 
 Do you think users can recognize the interaction points and information?
 * She thinks so
