@@ -25,10 +25,19 @@ In today's COVID-19 reality, remote learning has become required and additional 
 * **Recognition rather than recall:** The area where Mathisfun does rely on recall versus recognition is when the navigational arrows to switch between content pages become non-existent. Once the arrows are removed, then the user needs to remember how to get back to previous content that was explored.
 * **Consistency and standards:** The consistency issue that should be addressed is with the horizontal direction arrows that was discussed in the ‘User control and freedom’ section.
 
+<iframe src="https://drive.google.com/file/d/1F4KBqz1NnSLknXbvfSRyWWU8qg1VVjiz/preview" width="640" height="480"></iframe>
 ----
 ## User Research: Contextual Inquiry
 Based off the initial findings of the Mathisfun.com [heuristic evaluation](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2001) and [pilot usability test](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2002), the research has reached its next phase of data collection. The research that takes place is based on participant observation and contextual inquiry user experience methodology that is focused at collecting qualitative data towards facilitating effective math learning lessons to students in and outside of classroom learning. Specifically, the research observes and explores the tools, strategies, and pain points of teaching math to a group of elementary school children by a female, middle-aged teacher based in Los Angeles, California. The ultimate goal is to identify translatable qualitative data that can be used to help improve and/or create new features pertaining to the Mathisfun.com website.
 
+### Particiapnt Observation
+<iframe src="https://drive.google.com/file/d/1Y2HhCeqS1saVM6kt_Unwmy1PSmQl1bGg/preview" width="640" height="480"></iframe>
+
+### Contextual Inquiry
+#### Part 1
+<iframe src="https://drive.google.com/file/d/1uLDuG7HIdbIbriwXasF9gbY06XXT_5eT/preview" width="640" height="480"></iframe>
+#### Part 2
+<iframe src="https://drive.google.com/file/d/11x5gxxiMD-Z-DIb8ynQPFyU1XJZiWM37/preview" width="640" height="480"></iframe>
 ----
 ## UX Storytelling
 Storytelling in UX is one part research, one part artform. To craft a user's story, you need the data to bring actionable insights to light. However, data is not enough. You need to tell a story with that data to encompass the users your feature/product is targetting, which is a true artform in of itself. The purpose of storytelling in UX is simple: it is to drive design through emotion. When you are presenting a story to the stakeholders, they are not looking for granular insights from the research data. More often than not, they're looking for what makes a user frustrated and what they can do to solve that frustration. Ultimately, storytelling puts the stakeholders in the users shoes and removes any biases or assumptions they may have when they are crafting a feature or product for their consumers.
@@ -92,10 +101,12 @@ To access regular wireframe without markups, click [here](https://drive.google.c
 To access regular wireframe with markups, click [here](https://drive.google.com/drive/folders/1PsQHDdEe8n4C6u3ubvFF4wsQfajp4sGn?usp=sharing)!
 
 ## Wireframe & Graphic Design Element Variation
-
+<img src="./Hi-Fi_Wireflowv2.png">
 
 ## High-Fidelity Prototype
+The purpose of this high-fidelity prototype is to translate the research that has been conducted on the [mathisfun.com](Https://www.mathisfun.com) website and present design concepts and improvements from the findings. More importantly, high-fidelity prototyping allows the design concept to be tested and iterate design improvements based on feedback and findings from Impression Tests and Cognitive Walkthroughs. To bring concept to reality, the Adobe XD prototyping tool was utilized to make an iterative, high-fidelity design based on the low-fidelity design initially mocked up from the Balsamiq software platform. While this high-fidelity prototype's tasks are created based on one scenario, this is not the final design outcome! 
 
+<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen" frameborder="0" allowfullscreen></iframe>
 
 ## Evaluation & Revision History
 
