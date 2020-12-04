@@ -38,6 +38,7 @@ Based off the initial findings of the Mathisfun.com [heuristic evaluation](https
 <iframe src="https://drive.google.com/file/d/1uLDuG7HIdbIbriwXasF9gbY06XXT_5eT/preview" width="640" height="480"></iframe>
 #### Part 2
 <iframe src="https://drive.google.com/file/d/11x5gxxiMD-Z-DIb8ynQPFyU1XJZiWM37/preview" width="640" height="480"></iframe>
+
 ----
 
 ## UX Storytelling
@@ -108,6 +109,8 @@ To access regular wireframe with markups, click [here](https://drive.google.com/
 The purpose of this high-fidelity prototype is to translate the research that has been conducted on the [mathisfun.com](Https://www.mathisfun.com) website and present design concepts and improvements from the findings. More importantly, high-fidelity prototyping allows the design concept to be tested and iterate design improvements based on feedback and findings from Impression Tests and Cognitive Walkthroughs. To bring concept to reality, the Adobe XD prototyping tool was utilized to make an iterative, high-fidelity design based on the low-fidelity design initially mocked up from the Balsamiq software platform. While this high-fidelity prototype's tasks are created based on one scenario, this is not the final design outcome! 
 
 <iframe width="1920" height="1080" src="https://xd.adobe.com/embed/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen" frameborder="0" allowfullscreen></iframe>
+
+----
 
 ## Evaluation & Revision History
 
