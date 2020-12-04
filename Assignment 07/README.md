@@ -24,7 +24,6 @@ Future Tasks to be included in the final prototype design are:
 ----
 ## Prototype Images
 
-----
 ### Before
 <img src="./mathisfun.png">
 
@@ -37,6 +36,7 @@ Future Tasks to be included in the final prototype design are:
 ### Complete Mockup
 <img src="./Hi-Fi_Full Mockupv2.png">
 ----
+
 ## Wireflow
 ### Original Version
 <img src="./Hi-Fi_Wireflow.png">
