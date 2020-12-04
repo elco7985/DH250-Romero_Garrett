@@ -31,12 +31,18 @@ Future Tasks to be included in the final prototype design are:
 ### After
 <img src="./Updated_mathisfun.com.png">
 
-### Entire Mockup
+### Entire Mockup v.1
 <img src="./Hi-Fi_Full Mockup.png">
+
+### Entire Mockup v.2
 
 ----
 ## Wireflow
+### Original Version
 <img src="./Hi-Fi_Wireflow.png">
+
+### Completed Version
+
 
 ----
 ## Impression Test & Cognitive Walkthrough
