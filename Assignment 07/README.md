@@ -22,6 +22,10 @@ Future Tasks to be included in the final prototype design are:
 * Math toolkit shortcut based on Josephine's user persona
 
 ----
+## Prototyp Link
+To access the mathisfun.com prototype, please click [here!](https://xd.adobe.com/view/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen)
+
+----
 ## Prototype Images
 
 ### Before
