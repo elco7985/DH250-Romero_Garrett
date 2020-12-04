@@ -35,6 +35,7 @@ Storytelling in UX is one part research, one part artform. To craft a user's sto
 ### User Personas & Empathy Map
 <img src="./Teacher1.png">
 <img src="./Student1.png">
+
 ### Scenarios & Customer Journey Maps
 #### Laura Q's Scenarios
 _**Scenario 1**_
