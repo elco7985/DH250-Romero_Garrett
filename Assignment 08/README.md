@@ -11,8 +11,9 @@ In the age of COVID-19, remote teaching has become mandatory for the educational
 ----
 ## Competitor Analysis: Heuristic Evaluation
 
-### Mathantics.com | Mathisfun.com
-<img src="./mathantics-screenshot.png" height="200px"> | <img src="./mathisfun-screenshot.png" height="200px">
+Mathantics.com | Mathisfun.com
+--- | --- 
+<img src="./mathantics-screenshot.png" height="300px"> | <img src="./mathisfun-screenshot.png" height="300px">
 
 ----
 ## Competitor Analysis: Usability Testing
