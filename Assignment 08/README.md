@@ -31,7 +31,7 @@ In today's COVID-19 reality, remote learning has become required and additional 
 ## User Research: Contextual Inquiry
 Based off the initial findings of the Mathisfun.com [heuristic evaluation](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2001) and [pilot usability test](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2002), the research has reached its next phase of data collection. The research that takes place is based on participant observation and contextual inquiry user experience methodology that is focused at collecting qualitative data towards facilitating effective math learning lessons to students in and outside of classroom learning. Specifically, the research observes and explores the tools, strategies, and pain points of teaching math to a group of elementary school children by a female, middle-aged teacher based in Los Angeles, California. The ultimate goal is to identify translatable qualitative data that can be used to help improve and/or create new features pertaining to the Mathisfun.com website.
 
-### Particiapnt Observation
+### Participant Observation
 <iframe src="https://drive.google.com/file/d/1Y2HhCeqS1saVM6kt_Unwmy1PSmQl1bGg/preview" width="640" height="480"></iframe>
 
 ### Contextual Inquiry
