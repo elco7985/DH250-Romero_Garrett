@@ -55,7 +55,7 @@ To view the entire qualtitative study (participant observation and contextual in
 ## UX Storytelling
 Storytelling in UX is one part research, one part artform. To craft a user's story, you need the data to bring actionable insights to light. However, data is not enough. You need to tell a story with that data to encompass the users your feature/product is targetting, which is a true artform in of itself. The purpose of storytelling in UX is simple: it is to drive design through emotion. When you are presenting a story to the stakeholders, they are not looking for granular insights from the research data. More often than not, they're looking for what makes a user frustrated and what they can do to solve that frustration. Ultimately, storytelling puts the stakeholders in the users shoes and removes any biases or assumptions they may have when they are crafting a feature or product for their consumers.
 ### User Personas & Empathy Map
-<img src="./Teacher1.png" height="300px">
+<img src="./Teacher1.png" height="600px" WIDTH="400px">
 
 To view all user personas, empathy maps, customer journey maps and scenarios, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005)
 
