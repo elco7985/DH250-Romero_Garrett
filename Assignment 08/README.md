@@ -17,7 +17,8 @@ In the age of COVID-19, remote teaching has become mandatory for the educational
 Mathantics.com | Mathisfun.com
 --- | --- 
 <img src="./mathantics-screenshot.png" height="300px"> | <img src="./mathisfun-screenshot.png" height="300px">
-For complete heuristic evaluationof both websites, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2001)
+
+For complete heuristic evaluation of both websites, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2001)
 
 ----
 ## Competitor Analysis: Usability Testing
