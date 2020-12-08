@@ -113,7 +113,7 @@ To access regular wireframe with markups, click [here](https://drive.google.com/
 ## High-Fidelity Prototype
 The purpose of this high-fidelity prototype is to translate the research that has been conducted on the [mathisfun.com](Https://www.mathisfun.com) website and present design concepts and improvements from the findings. More importantly, high-fidelity prototyping allows the design concept to be tested and iterate design improvements based on feedback and findings from Impression Tests and Cognitive Walkthroughs. To bring concept to reality, the Adobe XD prototyping tool was utilized to make an iterative, high-fidelity design based on the low-fidelity design initially mocked up from the Balsamiq software platform. While this high-fidelity prototype's tasks are created based on one scenario, this is not the final design outcome! 
 
-<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen" frameborder="0" allowfullscreen></iframe>
+<iframe width="1024" height="768" src="https://xd.adobe.com/embed/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen" frameborder="0" allowfullscreen></iframe>
 
 ----
 
