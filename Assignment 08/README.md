@@ -24,7 +24,7 @@ For complete heuristic evaluation of both websites, please click [here!](https:/
 
 ----
 ## Competitor Analysis: Usability Testing
-After conducting the heuristic evaluation, it was important to understand the painpoints and design issues from the user perspective as well. Usability Testing (UT), as a research method, helps present findings that are directly attributed through user feedback. In order to effectively design the UT, the violations from the heuristic evaluation were utilized and focused on during this phase of the study. The violations that were central throughout the UT were:
+After conducting the heuristic evaluation, it was important to understand the painpoints and design issues from the user perspective as well. Usability Testing (UT), as a research method, helps present findings that are directly attributed through user feedback by creating design scenarios. In order to effectively design the UT, the violations from the heuristic evaluation were utilized and focused on during this phase of the study. The violations that were central throughout the UT were:
 
 * **User Control & Freedom:** Mathisfun does provide user control and freedom, however, it is not consistent. Upon selecting the various categories displayed (algebra, geometry, etc.) on the header bar, a user does have directional functions to move forward or backwards with the content associated to it. What becomes conflictual is that there is too much user control and freedom while simultaneously lacking it.
 * **Match between system and the real world:** The child pages linking to the header bar tend to deviate from this aspect. The design logos are not placed in a uniform manner, which may have the user engage visually with the content in a left-to-right or right-to-left manner.
@@ -32,6 +32,9 @@ After conducting the heuristic evaluation, it was important to understand the pa
 * **Consistency and standards:** The consistency issue that should be addressed is with the horizontal direction arrows that was discussed in the ‘User control and freedom’ section.
 
 <iframe src="https://drive.google.com/file/d/1F4KBqz1NnSLknXbvfSRyWWU8qg1VVjiz/preview" width="640" height="480"></iframe>
+
+To view the entire UT study, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2003)
+
 ----
 
 ## User Research: Contextual Inquiry
@@ -45,55 +48,20 @@ Based off the initial findings of the Mathisfun.com heuristic evaluation and pil
 #### Part 2
 <iframe src="https://drive.google.com/file/d/11x5gxxiMD-Z-DIb8ynQPFyU1XJZiWM37/preview" width="640" height="480"></iframe>
 
+To view the entire qualtitative study (participant observation and contextual inquiry), please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2004)
+
 ----
 
 ## UX Storytelling
 Storytelling in UX is one part research, one part artform. To craft a user's story, you need the data to bring actionable insights to light. However, data is not enough. You need to tell a story with that data to encompass the users your feature/product is targetting, which is a true artform in of itself. The purpose of storytelling in UX is simple: it is to drive design through emotion. When you are presenting a story to the stakeholders, they are not looking for granular insights from the research data. More often than not, they're looking for what makes a user frustrated and what they can do to solve that frustration. Ultimately, storytelling puts the stakeholders in the users shoes and removes any biases or assumptions they may have when they are crafting a feature or product for their consumers.
 ### User Personas & Empathy Map
 <img src="./Teacher1.png">
-<img src="./Student1.png">
 
-### Scenarios & Customer Journey Maps
-#### Laura Q's Scenarios
-_**Scenario 1**_
-
-**Why is Laura using this product**
-
-Laura is a grade school teacher based in Los Angeles. She has always used online math resources for supplemental teaching purposes but she usually printed out homework assignments to hand out to her students. Because of COVID, Laura finds herself using sites like Mathisfun.com more often to assign homework assignments to her students. Laura wants to assign some worksheets that are on Mathisfun.com to her students for an upcoming homework assignment, however, she wants to customize the questions to make them more relevant to the multiplication material they’ve been learning in class lately. 
-
-**How is Laura using this product**
-
-Laura goes to the Mathisfun.com website and selects the Worksheets button located on the landing page. She identifies the Multiplication worksheets option and it opens up to the various worksheets based on a many categories for math. Laura selects the Getting Tougher multiplication worksheet and reviews the math problems. She notices that some of the math problems may be too difficult for her students to solve. Laura then selects the ‘Customize Math Problems” option and modifies the questions to be more suited for the students skill level. After she completes her modifications, Laura saves the worksheet and then clicks the “Share the URL” feature that allows her to copy and paste the math worksheet URL and send it to her students via email or chat. 
-<img src="./LauraCJM1.png">
-
-_**Scenario 2**_
-
-**Why is Laura using this product**
-
-Laura is a grade school teacher that currently facilitates her classes online. Before the pandemic, Laura was able to create fun and interactive math games that her students could participate in class. Since in-person activities are longer feasible, she wants to try out an online interactive math learning activity with her students where they can work on this activity together. Laura knows kids learn best when they engage in visual activities that capture their attention and when they work on it as a group.   
-
-**How is Laura using this product**
-
-Laura goes to the Mathisfun.com website and selects the Games button section. She identifies Team Games and selects the Baseball option. Inside the game, she customizes it based on her needs and parameters. She chooses two teams competing against each other and gives each team a name. Also, she selects the math category and sets the skill level based on the students grade. After she is done customizing the game, she selects the “Share the URL” feature that allows her to copy and paste the Game Activities URL and send it to her students via the group chat on Zoom.
-
-<img src="./LauraCJM2.png">
-
-
-<img src="./JosephineCJM.png">
-
-#### Josephine R's Scenario
-
-**Why is Josephine using this product**
-
-Josephine is trying to complete an online math worksheet assigned by her teacher that is based on multiplying numbers. When she’s working on math problems in class, her teacher allows her to use shortcuts such as math songs, pictures of her times tables, and objects to manipulate that help solve multiplication problems. Josephine gets stuck on a math problem and decides to see what the online website has for helpful math tools to help her solve the problem.   
-
-**How is Josephine using this product**
-
-Josephine is working on a multiplication problem she’s having trouble with and needs help. She looks for the Math Toolkit button located at the bottom-right of the webpage. She selects the button and a menu fans out giving her options to choose from, such as video tutorials, math shortcuts, digital objects to manipulate and more. Josephine decides to select the Math Shortcuts option to help her solve the multiplication problem.  
+To view all user personas, empathy maps, customer journey maps and scenarios, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005)
 
 ----
 ## Low-Fidelity Prototype
-To provide a brief recap, the goal of the design project is to identify frustrations, pain points, and potential usability opportunities for users who are middle-aged women. The selected website, Mathisfun.com, was chosen to target middle-aged women who were teachers and a series of methodologies was implemented to gather actionable qualitative data. Based on the data collected throughout the entire research, the next phase is to create a low-fidelity wireframe and prototype to present and test out with pilot users. The purpose of the low-fidelity wireframes is to see the system functionality and usability on the potential features being incorporated into the design. The following features were recommended based off the [User Personas and Customer Journey Maps](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005):
+Based on the data collected throughout the entire research, the next phase was to create a low-fidelity wireframe and prototype to present and test out with pilot users. The purpose of the low-fidelity wireframes is to see the system functionality and usability on the potential features being incorporated into the design. The following features were recommended based off the [User Personas and Customer Journey Maps](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005):
 
 * Customization feature to tailor math worksheets
 * Copy URL function to send customized/non-customized worksheets to other users
@@ -108,6 +76,8 @@ To access regular wireframe without markups, click [here](https://drive.google.c
 
 To access regular wireframe with markups, click [here](https://drive.google.com/drive/folders/1PsQHDdEe8n4C6u3ubvFF4wsQfajp4sGn?usp=sharing)!
 
+To view the entire low-fidelity report and findings, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2006)
+
 ## Wireframe & Graphic Design Element Variation
 <img src="./Hi-Fi_Wireflowv2.png">
 
@@ -115,6 +85,8 @@ To access regular wireframe with markups, click [here](https://drive.google.com/
 The purpose of this high-fidelity prototype is to translate the research that has been conducted on the [mathisfun.com](Https://www.mathisfun.com) website and present design concepts and improvements from the findings. More importantly, high-fidelity prototyping allows the design concept to be tested and iterate design improvements based on feedback and findings from Impression Tests and Cognitive Walkthroughs. To bring concept to reality, the Adobe XD prototyping tool was utilized to make an iterative, high-fidelity design based on the low-fidelity design initially mocked up from the Balsamiq software platform. While this high-fidelity prototype's tasks are created based on one scenario, this is not the final design outcome! 
 
 <iframe width="1024" height="768" src="https://xd.adobe.com/embed/e8cc5572-84d1-4e96-a7cd-3f99a3b80873-bd9f/?fullscreen" frameborder="0" allowfullscreen></iframe>
+
+To view the entire high-fidelity report and findings, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2007)
 
 ----
 
