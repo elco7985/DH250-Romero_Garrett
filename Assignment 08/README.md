@@ -7,7 +7,7 @@ Given the current conditions of the COVID-19 pandemic, I noticed a strong trend 
 
 ----
 ## Design Statement
-### How can I create a positive user experience for online and opensource learning platforms that teachers can effectively use for teaching their students during the COVID-19 pandemic? 
+#### *How can I create a positive user experience for online and opensource learning platforms that teachers can effectively use for teaching their students during the COVID-19 pandemic?* 
 The parameters of the research study required identifying a digital platform that was frequently used by middle-aged women, either web or app related, and improving the overall usability and user experience for the user. Given the requirements of the study, I identified opensource learning platforms used by teachers as an area for improvement. After an initial landscape analysis of opensource math platforms, it was apparent that these sites were antiquated in design and hard to navigate. With this in mind, I selected the mathisfun.com website as the platform as my case study. Using this platform as the basis for my UX research and design, my goal was to improve efficiency, create novel features, and explore other possibilities that would improve the sites  user experience while ultimately assisting a teacher facilitating math lessons through online learning.
 
 ----
