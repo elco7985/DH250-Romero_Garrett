@@ -1,12 +1,14 @@
-# Mathisfun.com - Web Documentation
-### DH 250: UX+UI, by Garrett Romero
+# Improving Open Source Learning Platforms for Teachers
+### by Garrett Romero
 
 ----
 ## Introduction
-
+Given the current conditions of the COVID-19 pandemic, I noticed a strong trend in news reports and Twitter posts of how teachers and students alike were struggling with the new normal of online learning. More importantly, I know first hand how online learning tools can come at a cost that is well beyond the budget of a teacher's salary. Using my Aunt Janet as inspiration, who has been a world class teacher for over 30 years, I set out on a UX journey to help improve an opensource online learning tool that could positively impact a learning environment  .     
 
 ----
 ## Design Statement
+### How can I create a positive user experience for online and opensource learning platforms that teachers can effectively use for teaching their students during the COVID-19 pandemic? 
+The parameters of the research study required identifying a digital platform that was frequently used by middle-aged women, either web or app related, and improving the overall usability and user experience. Given the requirements of the study, I identified opensource learning platforms used by teachers as area for improvement. After initial 
 
 ----
 ## Competitor Analysis: Heuristic Evaluation
