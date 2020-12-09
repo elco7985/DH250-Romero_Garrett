@@ -1,4 +1,4 @@
-# Improving Open-source Learning Platforms for Teachers
+# Improving The Mathisfun.com Website
 ### by Garrett Romero
 
 ----
