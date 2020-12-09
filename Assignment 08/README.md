@@ -90,6 +90,16 @@ To view the entire high-fidelity report and findings, please click [here!](https
 
 
 ## Evaluation & Revision History
+### Usability Testing
+The study in many ways accomplished what the research goal was - to confirm and find pain points throughout the website. I received great feedback from my participant. I knew there was more descriptors he wanted to use that were not available and so I asked him if he cared to share any additional thoughts that were on his mind. 
+
+* **He explicitly stated,** “I thought the site was antiquated”; “Dated and uninviting. Would only visit once. How contemporary is this going be towards modern learning when everything just looks like it is from 1993. It looks like one of the original websites. And if you're trying to tell me math is fun, there is not a single fun thing navigating your site. If this is exactly why kids hate math, it is just so stiff and there is no dimension, no depth.”
+
+
+The participant also affirmed my suspicions about user control and freedom, graphics placement, recognition vs. recall, the navigation of the website being too cumbersome and difficult. What was surprising is that I was not planning on the user stumbling onto user control and freedom issues with a Scenario 2. The next scenario was going to engage with this particular violation. However, I did state that this particular violation was rampant throughout the website so it makes sense that we found related violations along the way. Another surprising aspect that I did not capture with initial heuristic evaluation was the participant unable to locate home button/logo during one of the scenarios. If I had to re-adjust my severity ranking on the heuristic evaluation, I would escalate the Consistency and Standards principle as something that needs to be addressed immediately.
+
+### Cognitive Walkthrough & Impression test 
+
 The initial Impression test was conducted with my classmates but I was unable to record their interactions with the prototype. However, the feedback I received was wonderful. My classmates provided some insight as to correcting some design issues, such as adding in an 'enter' button for the pop-up windows and formatting the math problems to not confuse the user when it comes to recognition vs. recall.
 
 The second impression test was conducted with my wife, Tanya. She also gave great feedback on the first impression test I conducted with her. Specifically, she highlighted some familiarity issues with the prototype's feature. One feature is designated for online worksheet use, which is a native feature to the website. However, it does not convey intuitiveness and leaves the user guessing as to what this feature specifically does as a function. Another aspect she highlighted was the color of the 'Copy URL' button. She did not prefer this color associated to the button, since she felt that the color of red conveyed warning and was unwelcoming. Out of the features she mentioned, I did change the color of the button for a later test but was unsure how-to re-format the design of the online worksheet feature. I felt that this would require further research and I did not have enough time to dive deeper. If I were to continue on the design of this website, this would be one of the many things I would look into.
