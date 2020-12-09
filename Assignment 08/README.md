@@ -33,6 +33,13 @@ After conducting the heuristic evaluation, it was important to understand the pa
 
 <iframe src="https://drive.google.com/file/d/1F4KBqz1NnSLknXbvfSRyWWU8qg1VVjiz/preview" width="640" height="480"></iframe>
 
+The study in many ways accomplished what the research goal was - to confirm and find pain points throughout the website. I received great feedback from my participant. I knew there was more descriptors he wanted to use that were not available and so I asked him if he cared to share any additional thoughts that were on his mind. 
+
+* **He explicitly stated,** “I thought the site was antiquated”; “Dated and uninviting. Would only visit once. How contemporary is this going be towards modern learning when everything just looks like it is from 1993. It looks like one of the original websites. And if you're trying to tell me math is fun, there is not a single fun thing navigating your site. If this is exactly why kids hate math, it is just so stiff and there is no dimension, no depth.”
+
+
+The participant also affirmed my suspicions about user control and freedom, graphics placement, recognition vs. recall, the navigation of the website being too cumbersome and difficult. What was surprising is that I was not planning on the user stumbling onto user control and freedom issues with a Scenario 2. The next scenario was going to engage with this particular violation. However, I did state that this particular violation was rampant throughout the website so it makes sense that we found related violations along the way. Another surprising aspect that I did not capture with initial heuristic evaluation was the participant unable to locate home button/logo during one of the scenarios. If I had to re-adjust my severity ranking on the heuristic evaluation, I would escalate the Consistency and Standards principle as something that needs to be addressed immediately.
+
 To view the entire UT study, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2003)
 
 ----
@@ -88,16 +95,6 @@ The purpose of this high-fidelity prototype is to translate the research that ha
 
 To view the entire high-fidelity report and findings, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2007)
 
-
-## Evaluation & Revision History
-### Usability Testing
-The study in many ways accomplished what the research goal was - to confirm and find pain points throughout the website. I received great feedback from my participant. I knew there was more descriptors he wanted to use that were not available and so I asked him if he cared to share any additional thoughts that were on his mind. 
-
-* **He explicitly stated,** “I thought the site was antiquated”; “Dated and uninviting. Would only visit once. How contemporary is this going be towards modern learning when everything just looks like it is from 1993. It looks like one of the original websites. And if you're trying to tell me math is fun, there is not a single fun thing navigating your site. If this is exactly why kids hate math, it is just so stiff and there is no dimension, no depth.”
-
-
-The participant also affirmed my suspicions about user control and freedom, graphics placement, recognition vs. recall, the navigation of the website being too cumbersome and difficult. What was surprising is that I was not planning on the user stumbling onto user control and freedom issues with a Scenario 2. The next scenario was going to engage with this particular violation. However, I did state that this particular violation was rampant throughout the website so it makes sense that we found related violations along the way. Another surprising aspect that I did not capture with initial heuristic evaluation was the participant unable to locate home button/logo during one of the scenarios. If I had to re-adjust my severity ranking on the heuristic evaluation, I would escalate the Consistency and Standards principle as something that needs to be addressed immediately.
-
 ### Cognitive Walkthrough & Impression test 
 
 The initial Impression test was conducted with my classmates but I was unable to record their interactions with the prototype. However, the feedback I received was wonderful. My classmates provided some insight as to correcting some design issues, such as adding in an 'enter' button for the pop-up windows and formatting the math problems to not confuse the user when it comes to recognition vs. recall.
@@ -106,9 +103,20 @@ The second impression test was conducted with my wife, Tanya. She also gave grea
 
 The cognitive walkthrough conducted on both my classmates and my wife were fairly straight forward and went smoothly. After giving a summary of the Laura Q's User Persona and the task she was trying to accomplish, both classmates and my wife felt that the interaction was relevant and intuitive for Laura Q's needs and abilities to carry out the task. After completing the prototype, with modified changes to the prototype, I used my wife as a tester to go through the complete scenarios and tasks for both User Persona’s, Laura Q. and Josephine R. This second cognitive walkthrough produced similar results and it was clear that she was able to complete the tasks conveyed to her. One thing to note is I conducted a pseudo-impression test simultaneously during the second cognitive walkthrough and she did emphasize a certain level of excitement to one of the features I animated. Specifically, she was pleased with the drop-down menu options I implemented for the baseball game. One reason she was pleased is because the difficulty setting was labeled exactly the same way as the difficulty of the math worksheets for multiplication. This told me I had successfully engaged in recognition with the difficulty setting for the game.
 
-----
-## Pitch Video
+#### First Impression Test & Walkthrough
+<iframe src="https://drive.google.com/file/d/1bXbMOKugYOoC_8_2G7VfgrVt7XZbOZgm/preview" width="640" height="480"></iframe>
+#### Second Impression Test & Walkthrough
+<iframe src="https://drive.google.com/file/d/1btL-t5TeiNbA55I0Qd8VKFO1KL6sxHW3/preview" width="640" height="480"></iframe>
 
 ----
 ## Conclusion & Final Reflection
+In performing the research and design process from start to finish, I felt that I was able to achieve my objectives that I set forth for myself. While the heuristic evaluation was important and foundational, the usability test, participant observation and contextual inquiry were equally important towards driving design decisions. The most important takeaway from this process is that embracing a human-centered design approach requires one to be:
 
+* A student and not a teacher
+* Curious at all times
+* Humble and not ego-centric
+
+Overall, listening to the interviewers/users was key and central to the design process. One thing to note about my design process is that I believe I was overly ambitious in what I wanted to create and present in the low-fidelity and high-fidelity protypes. Specifically, I conceptually came up with a baseball game that included collaboration from the users. It was a sound idea but I lacked the technical knowhow in Balsamiq and AdobeXD, such as animation, to make my vision into reality. Another lesson I am taking away is nothing beats the power of pencil and paper. While Balsamiq is a wonderful software platform, it lacked a workflow capability, which unfortunately I was unable to demonstrate. Lastly, I would have like to test the prototypes on the targeted demographics of this research study. Due time and conflict, I was not able to use my Aunt Janet during this phase of the design process. Regardless, I do plan on showing the prototypes to her at a later time to get feedback and see what else I could have improved on the design concepts.   
+
+----
+## Pitch Video
