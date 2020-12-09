@@ -50,9 +50,8 @@ Based off the initial findings of the Mathisfun.com heuristic evaluation and pil
 <iframe src="https://drive.google.com/file/d/1Y2HhCeqS1saVM6kt_Unwmy1PSmQl1bGg/preview" width="640" height="480"></iframe>
 
 ### Contextual Inquiry
-#### Part 1
-<iframe src="https://drive.google.com/file/d/1uLDuG7HIdbIbriwXasF9gbY06XXT_5eT/preview" width="640" height="480"></iframe>
-#### Part 2
+Part 1 | Part 2
+<iframe src="https://drive.google.com/file/d/1uLDuG7HIdbIbriwXasF9gbY06XXT_5eT/preview" width="640" height="480"></iframe> | 
 <iframe src="https://drive.google.com/file/d/11x5gxxiMD-Z-DIb8ynQPFyU1XJZiWM37/preview" width="640" height="480"></iframe>
 
 To view the entire qualtitative study (participant observation and contextual inquiry), please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2004)
