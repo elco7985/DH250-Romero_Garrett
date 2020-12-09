@@ -67,16 +67,23 @@ Storytelling in UX is one part research, one part artform. To craft a user's sto
 To view all user personas, empathy maps, customer journey maps and scenarios, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005)
 
 ----
-## Low-Fidelity Prototype
-Based on the data collected throughout the entire research, the next phase was to create a low-fidelity wireframe and prototype to present and test out with pilot users. The purpose of the low-fidelity wireframes is to see the system functionality and usability on the potential features being incorporated into the design. The following features were recommended based off the [User Personas and Customer Journey Maps](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005):
+## Wireframe & Graphic Design Element Variation
+Based on the user personas, I conceptualized two design improvements and five features to implement in the prototypes: 
 
+* Update the header bar for user efficiency
+* Implement a simple redesign, including a welcome page and background graphics
 * Customization feature to tailor math worksheets
 * Copy URL function to send customized/non-customized worksheets to other users
 * A ‘Math Toolkit’ shortcut feature that leads a user to a help page
 * A navigation button to easily go back to math worksheet
 * A conceptual baseball game that incorporates group activity features and includes a Copy URL function
 
-In order to see the viability of the proposed wireframe, a pilot tester was recruited to perform three different tasks based on the proposed features in the wireframe. The pilot test is meant to assess the design of the features and to provide user feedback for later design iterations. A simple script was drafted, highlighting the goals of the research and instructions of how to conduct the usability test.
+Read more about the features and design process, [here!](https://github.com/elco7985/DH250-Romero_Garrett/blob/main/Assignment%2006/README.md)
+
+## Low-Fidelity Prototype
+The next phase of the design process was to create a low-fidelity wireframe and prototype with the features represented. More importantly, the low-fidelity would allow me to present the design concept and test it out with a pilot user. The overall purpose was to see the system functionality and usability on the potential features being incorporated into the design. 
+
+In order to see the viability of the proposed wireframe, three different tasks were give to a pilot tester based on the proposed features in the wireframe. The pilot test is meant to assess the design of the features and to provide user feedback for later design iterations. A simple script was drafted, highlighting the goals of the research and instructions of how to conduct the usability test.
 
 
 To access regular wireframe without markups, click [here](https://drive.google.com/drive/folders/1sRT3zebDXCNOVx04Lnj6SBUQAoRh2r4_?usp=sharing)!
@@ -84,9 +91,6 @@ To access regular wireframe without markups, click [here](https://drive.google.c
 To access regular wireframe with markups, click [here](https://drive.google.com/drive/folders/1PsQHDdEe8n4C6u3ubvFF4wsQfajp4sGn?usp=sharing)!
 
 To view the entire low-fidelity report and findings, please click [here!](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2006)
-
-## Wireframe & Graphic Design Element Variation
-<img src="./Hi-Fi_Wireflowv2.png">
 
 ## High-Fidelity Prototype
 The purpose of this high-fidelity prototype is to translate the research that has been conducted on the [mathisfun.com](Https://www.mathisfun.com) website and present design concepts and improvements from the findings. More importantly, high-fidelity prototyping allows the design concept to be tested and iterate design improvements based on feedback and findings from Impression Tests and Cognitive Walkthroughs. To bring concept to reality, the Adobe XD prototyping tool was utilized to make an iterative, high-fidelity design based on the low-fidelity design initially mocked up from the Balsamiq software platform. While this high-fidelity prototype's tasks are created based on one scenario, this is not the final design outcome! 
