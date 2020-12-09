@@ -3,6 +3,8 @@
 ## Introduction
 To provide a brief recap, the goal of the design project is to identify frustrations, pain points, and potential usability opportunities for users who are middle-aged women. The selected website, Mathisfun.com, was chosen to target middle-aged women who were teachers and a series of methodologies was implemented to gather actionable qualitative data. Based on the data collected throughout the entire research, the next phase is to create a low-fidelity wireframe and prototype to present and test out with pilot users. The purpose of the low-fidelity wireframes is to see the system functionality and usability on the potential features being incorporated into the design. The following features were recommended based off the [User Personas and Customer Journey Maps](https://github.com/elco7985/DH250-Romero_Garrett/tree/main/Assignment%2005):
 
+* Update the header bar for user efficiency
+* Implement a simple redesign, including a welcome page and background graphics
 * Customization feature to tailor math worksheets
 * Copy URL function to send customized/non-customized worksheets to other users
 * A ‘Math Toolkit’ shortcut feature that leads a user to a help page
