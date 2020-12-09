@@ -51,6 +51,7 @@ Based off the initial findings of the Mathisfun.com heuristic evaluation and pil
 
 ### Contextual Inquiry
 Part 1 | Part 2
+--- | ---
 <iframe src="https://drive.google.com/file/d/1uLDuG7HIdbIbriwXasF9gbY06XXT_5eT/preview" width="640" height="480"></iframe> | 
 <iframe src="https://drive.google.com/file/d/11x5gxxiMD-Z-DIb8ynQPFyU1XJZiWM37/preview" width="640" height="480"></iframe>
 
